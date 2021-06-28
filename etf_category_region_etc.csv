@@ -1,0 +1,1127 @@
+Symbol,Category,Asset Class,Asset Class Size,Asset Class Style,Region (General),Region (Specific),Sector (General)
+SPY,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IVV,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VTI,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VOO,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+QQQ,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+VEA,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+IEFA,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+AGG,Total Bond Market,Bond,,,North America,U.S.,
+VWO,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+IEMG,Emerging Markets Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+VTV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+BND,Total Bond Market,Bond,,,North America,U.S.,
+IWM,Small Cap Growth Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+VUG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+IJR,Small Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+IWF,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+IJH,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+GLD,Precious Metals,Commodity,,,,,
+VIG,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EFA,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+IWD,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VO,Mid Cap Growth Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+VB,Small Cap Growth Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+VXUS,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+VCIT,Corporate Bonds,Bond,,,Developed Markets,Broad,
+LQD,Corporate Bonds,Bond,,,North America,U.S.,
+VGT,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+BNDX,Total Bond Market,Bond,,,Developed Markets,Broad,
+XLF,Financials Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+XLK,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+VCSH,Corporate Bonds,Bond,,,Developed Markets,Broad,
+ITOT,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VNQ,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+VYM,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VEU,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+BSV,Total Bond Market,Bond,,,North America,U.S.,
+IVW,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+EEM,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+DIA,Large Cap Growth Equities,Equity,Mega-Cap,Blend,North America,U.S.,
+USMV,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SCHX,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IAU,Precious Metals,Commodity,,,,,
+IWB,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IWR,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+IXUS,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+MBB,Mortgage Backed Securities,Bond,,,North America,U.S.,
+TIP,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+SCHF,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+IGSB,Corporate Bonds,Bond,,,Developed Markets,Broad,
+RSP,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+XLV,Health & Biotech Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+ARKK,All Cap Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+VBR,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+XLE,Energy Equities,Equity,Large-Cap,Value,North America,U.S.,Energy
+VV,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+HYG,High Yield Bonds,Bond,,,North America,U.S.,
+IVE,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SCHD,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+MUB,National Munis,Bond,,,North America,U.S.,
+MDY,Small Cap Growth Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+XLI,Industrials Equities,Equity,Large-Cap,Blend,North America,U.S.,Industrials
+SHY,Government Bonds,Bond,,,North America,U.S.,
+QUAL,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+SCHB,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VT,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+XLY,Consumer Discretionary Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+SDY,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+PFF,Preferred Stock/Convertible Bonds,Preferred Stock,Multi-Cap,Blend,North America,U.S.,
+EMB,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+DVY,All Cap Equities,Equity,Multi-Cap,Value,North America,U.S.,
+DGRO,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SCHP,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+IWN,Small Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+SHV,Government Bonds,Bond,,,North America,U.S.,
+ACWI,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+VXF,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+VGK,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+SCHA,Small Cap Growth Equities,Equity,Small-Cap,Blend,North America,U.S.,
+VBK,Small Cap Growth Equities,Equity,Small-Cap,Growth,North America,U.S.,
+IWP,All Cap Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+MINT,Total Bond Market,Bond,,,Developed Markets,Broad,
+IEF,Government Bonds,Bond,,,North America,U.S.,
+GOVT,Government Bonds,Bond,,,North America,U.S.,
+TLT,Government Bonds,Bond,,,North America,U.S.,
+BIV,Total Bond Market,Bond,,,North America,U.S.,
+VLUE,Large Cap Value Equities,Equity,Large-Cap,Blend,North America,U.S.,
+MTUM,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+VMBS,Mortgage Backed Securities,Bond,,,North America,U.S.,
+VHT,Health & Biotech Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+SLV,Precious Metals,Commodity,,,,,
+GDX,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+SCZ,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,EAFE,
+SCHG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+VOE,Mid Cap Value Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+IWS,Mid Cap Value Equities,Equity,Mid-Cap,Value,North America,U.S.,
+EWJ,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+BIL,Government Bonds,Bond,,,North America,U.S.,
+EFV,Foreign Large Cap Equities,Equity,Large-Cap,Value,Developed Markets,EAFE,
+VTIP,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+IUSB,Total Bond Market,Bond,,,North America,U.S.,
+IWO,Small Cap Growth Equities,Equity,Small-Cap,Growth,North America,U.S.,
+XLU,Utilities Equities,Equity,Large-Cap,Value,North America,U.S.,Utilities
+IEI,Government Bonds,Bond,,,North America,U.S.,
+IGIB,Corporate Bonds,Bond,,,Developed Markets,Broad,
+TQQQ,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,
+FVD,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+IWV,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+XLP,Consumer Staples Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+SPDW,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+IUSG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+JNK,High Yield Bonds,Bond,,,North America,U.S.,
+SPYV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+VOT,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+VGSH,Government Bonds,Bond,,,North America,U.S.,
+IBB,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+MGK,Large Cap Growth Equities,Equity,Mega-Cap,Growth,North America,U.S.,
+FDN,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+EFG,Foreign Large Cap Equities,Equity,Large-Cap,Growth,Developed Markets,EAFE,
+SPYG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+ARKG,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+VFH,Financials Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+SPLG,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EFAV,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+SCHV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IUSV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SCHM,Mid Cap Growth Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+SCHE,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+IJS,Small Cap Value Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+VSS,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+SCHZ,Total Bond Market,Bond,,,North America,U.S.,
+IHI,Health & Biotech Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+IJJ,Mid Cap Value Equities,Equity,Mid-Cap,Value,North America,U.S.,
+IJK,Small Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+SCHO,Government Bonds,Bond,,,North America,U.S.,
+NOBL,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SPLV,Volatility Hedged Equity,Equity,Large-Cap,Blend,North America,U.S.,
+EWY,Asia Pacific Equities,Equity,Large-Cap,Value,Developed Asia Pacific,South Korea,
+SPSB,Corporate Bonds,Bond,,,North America,U.S.,
+FTCS,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+XBI,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+VGIT,Government Bonds,Bond,,,North America,U.S.,
+OEF,Large Cap Growth Equities,Equity,Mega-Cap,Growth,North America,U.S.,
+LMBS,Mortgage Backed Securities,Bond,,,North America,U.S.,
+XLB,Materials,Equity,Large-Cap,Blend,North America,U.S.,Materials
+ARKW,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+IYW,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+PGX,Preferred Stock/Convertible Bonds,Preferred Stock,Micro-Cap,Blend,North America,U.S.,
+EWT,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Taiwan,
+AAXJ,Asia Pacific Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+CWB,Preferred Stock/Convertible Bonds,Bond,,,North America,U.S.,
+MCHI,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+HDV,Large Cap Value Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FNDX,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FLOT,Corporate Bonds,Bond,,,Developed Markets,Broad,
+SOXX,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+IJT,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+FPE,Preferred Stock/Convertible Bonds,Preferred Stock,Multi-Cap,Blend,North America,U.S.,
+FNDF,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+SPEM,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+SPIB,Corporate Bonds,Bond,,,Developed Markets,Broad,
+SKYY,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+BKLN,High Yield Bonds,Bond,,,Developed Markets,Broad,
+EWZ,Latin America Equities,Equity,Large-Cap,Blend,Latin America,Brazil,
+ICLN,Alternative Energy Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Energy
+VCR,Consumer Discretionary Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+VONG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+DGRW,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+USIG,Corporate Bonds,Bond,,,Developed Markets,Broad,
+VCLT,Corporate Bonds,Bond,,,North America,U.S.,
+SPAB,Total Bond Market,Bond,,,Developed Markets,Broad,
+VDC,Consumer Staples Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+INDA,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+SMH,Technology Equities,Equity,Large-Cap,Growth,Developed Markets,Broad,Technology
+FTEC,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+VPL,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Broad,
+ICSH,Corporate Bonds,Bond,,,Developed Markets,Broad,
+SCHH,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+VOOG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+ACWV,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+VNQI,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+EZU,Europe Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+MOAT,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+IGV,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+IXN,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+VTWO,Small Cap Growth Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+GDXJ,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+PRF,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+AMLP,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+BLV,Total Bond Market,Bond,,,North America,U.S.,
+ISTB,Total Bond Market,Bond,,,North America,U.S.,
+VIS,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+KRE,Financials Equities,Equity,Multi-Cap,Value,North America,U.S.,Financials
+FTSM,Total Bond Market,Bond,,,North America,U.S.,
+VDE,Energy Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+NEAR,Total Bond Market,Bond,,,Developed Markets,Broad,
+XSOE,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+GUNR,Commodity Producers Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+IYR,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+SPTM,All Cap Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SHYG,High Yield Bonds,Bond,,,North America,U.S.,
+SHM,National Munis,Bond,,,North America,U.S.,
+VPU,Utilities Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+SUB,National Munis,Bond,,,North America,U.S.,
+SOXL,Leveraged Equities,Equity,Large-Cap,Growth,Developed Markets,Broad,Technology
+ANGL,High Yield Bonds,Bond,,,Developed Markets,Broad,
+SPMD,Mid Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+VONV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+STIP,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+PDBC,Commodities,Commodity,,,,,
+FNDA,Small Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+BOND,Total Bond Market,Bond,,,North America,U.S.,
+FXI,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+ACWX,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+IEUR,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+MGV,Large Cap Blend Equities,Equity,Mega-Cap,Blend,North America,U.S.,
+IDV,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+FNDE,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+EEMV,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+SPSM,Small Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+SJNK,High Yield Bonds,Bond,,,North America,U.S.,
+SCHR,Government Bonds,Bond,,,North America,U.S.,
+QLD,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,
+SLYV,Small Cap Value Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+SRLN,High Yield Bonds,Bond,,,Developed Markets,Broad,
+KBE,Financials Equities,Equity,Multi-Cap,Value,North America,U.S.,Financials
+DBEF,Hedge Fund,Equity,Multi-Cap,Blend,Developed Markets,EAFE,
+ONEQ,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+EWC,Global Equities,Equity,Multi-Cap,Blend,North America,Canada,
+XOP,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+KWEB,China Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,Technology
+VOX,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,Telecom
+MGC,Large Cap Growth Equities,Equity,Mega-Cap,Blend,North America,U.S.,
+IWY,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+TFI,National Munis,Bond,,,North America,U.S.,
+SPMB,Mortgage Backed Securities,Bond,,,North America,U.S.,
+EWU,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+TAN,Alternative Energy Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Energy
+SSO,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+QTEC,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+ARKQ,All Cap Equities,Equity,Multi-Cap,Growth,Developed Markets,Broad,
+HYD,National Munis,Bond,,,North America,U.S.,
+SCHC,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+SUSA,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EMLC,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+AIA,Asia Pacific Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+IGM,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+SPTL,Government Bonds,Bond,,,North America,U.S.,
+RDVY,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+GSY,Corporate Bonds,Bond,,,Developed Markets,Broad,
+IGF,Utilities Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Utilities
+SPTS,Government Bonds,Bond,,,North America,U.S.,
+USO,Oil & Gas,Commodity,,,,,
+IOO,Large Cap Growth Equities,Equity,Mega-Cap,Blend,Developed Markets,Broad,
+VAW,Materials,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+ITA,Industrials Equities,Equity,Multi-Cap,Growth,North America,U.S.,Industrials
+SPHD,Volatility Hedged Equity,Equity,Multi-Cap,Blend,North America,U.S.,
+DON,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+DSI,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+DLN,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FAS,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+QCLN,Alternative Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+REET,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+SPTI,Government Bonds,Bond,,,North America,U.S.,
+PCY,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+LIT,Commodity Producers Equities,Equity,Micro-Cap,Blend,Developed Markets,Broad,Materials
+IXJ,Health & Biotech Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Healthcare
+VWOB,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+RPG,Large Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+EWG,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+ITB,Building & Construction ,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+HEFA,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+FV,Global Equities,Equity,Multi-Cap,Growth,Developed Markets,Broad,
+FHLC,Health & Biotech Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+SPHQ,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+PBW,Small Cap Growth Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+IYH,Health & Biotech Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+RYT,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+IGLB,Corporate Bonds,Bond,,,North America,U.S.,
+ASHR,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+FXL,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+NFRA,Utilities Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Utilities
+SPIP,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+FNDC,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+GVI,Total Bond Market,Bond,,,North America,U.S.,
+SLQD,Corporate Bonds,Bond,,,North America,U.S.,
+EPP,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Pacific ex-Japan,
+FLRN,Corporate Bonds,Bond,,,Developed Markets,Broad,
+BSCM,Corporate Bonds,Bond,,,North America,U.S.,
+HYLS,High Yield Bonds,Bond,,,North America,U.S.,
+BAB,National Munis,Bond,,,North America,U.S.,
+SGOL,Precious Metals,Commodity,,,,,
+KBWB,Financials Equities,Equity,Multi-Cap,Value,North America,U.S.,Financials
+PZA,National Munis,Bond,,,North America,U.S.,
+QYLD,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+VONE,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SLYG,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+VGLT,Government Bonds,Bond,,,North America,U.S.,
+ICF,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+IYF,Financials Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+RPV,All Cap Equities,Equity,Multi-Cap,Value,North America,U.S.,
+IYT,Transportation Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+AMJ,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+VOOV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+HACK,Technology Equities,Equity,Multi-Cap,Blend,North America,U.S.,Technology
+FEZ,Europe Equities,Equity,Mega-Cap,Blend,Developed Europe,Broad,
+UPRO,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FMB,National Munis,Bond,,,North America,U.S.,
+FPX,Large Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+HEDJ,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+DGS,Emerging Markets Equities,Equity,Small-Cap,Blend,Emerging Markets,Broad,
+SPXL,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+DEM,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+FBT,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+HYS,High Yield Bonds,Bond,,,Developed Markets,Broad,
+PRFZ,Small Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+DBC,Commodities,Commodity,,,,,
+PEJ,Consumer Discretionary Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+BSCL,Corporate Bonds,Bond,,,Developed Markets,Broad,
+TNA,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+GXC,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+ROBO,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Technology
+EMLP,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+IYE,Energy Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+GNR,Commodity Producers Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+TECL,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+DES,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+PGF,Preferred Stock/Convertible Bonds,Preferred Stock,Micro-Cap,Blend,North America,U.S.,
+BSCN,Corporate Bonds,Bond,,,Developed Markets,Broad,
+EMQQ,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,Technology
+FTSL,High Yield Bonds,Bond,,,Developed Markets,Broad,
+PDP,Large Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+ILF,Latin America Equities,Equity,Large-Cap,Blend,Latin America,Broad,
+ITM,National Munis,Bond,,,North America,U.S.,
+FBND,Total Bond Market,Bond,,,Developed Markets,Broad,
+USRT,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+ILCG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+XHB,Building & Construction ,Equity,Mid-Cap,Blend,North America,U.S.,Materials
+XME,Materials,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+CMF,California Munis,Bond,,,North America,U.S.,
+AOR,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+XLG,Large Cap Growth Equities,Equity,Mega-Cap,Growth,North America,U.S.,
+RSX,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Europe,Russia,
+SLY,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+FXD,Consumer Discretionary Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+PKW,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+MDYG,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+IEV,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,Consumer Staples
+DXJ,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+SPHB,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+RWO,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+XMLV,Volatility Hedged Equity,Equity,Small-Cap,Blend,North America,U.S.,
+EWL,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CWI,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+FDL,Large Cap Value Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CQQQ,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,Technology
+HYMB,National Munis,Bond,,,North America,U.S.,
+VIOO,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+IYJ,Industrials Equities,Equity,Large-Cap,Blend,North America,U.S.,Industrials
+TILT,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+AOM,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+VRP,Preferred Stock/Convertible Bonds,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+SH,Inverse Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SQQQ,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,
+PPLT,Precious Metals,Commodity,,,,,
+IYY,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FXR,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+REM,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+IMCG,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+IYG,Financials Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+FNCL,Financials Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+QDF,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+RWR,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+TDIV,Technology Equities,Equity,Large-Cap,Blend,North America,U.S.,Technology
+IYC,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+PHO,Water Equities ,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+MDYV,Mid Cap Value Equities,Equity,Mid-Cap,Value,North America,U.S.,
+FDIS,Consumer Discretionary Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+XSLV,Volatility Hedged Equity,Equity,Micro-Cap,Blend,North America,U.S.,
+DLS,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+TDTT,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+BSCO,Corporate Bonds,Bond,,,North America,U.S.,
+IWC,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+FXH,Health & Biotech Equities,Equity,Mid-Cap,Growth,North America,U.S.,Healthcare
+PXH,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+EWA,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Australia,
+QLTA,Corporate Bonds,Bond,,,North America,U.S.,
+XAR,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+PSK,Preferred Stock/Convertible Bonds,Preferred Stock,Micro-Cap,,North America,U.S.,
+IVOO,Small Cap Growth Equities,Equity,Small-Cap,Blend,North America,U.S.,
+IXC,Energy Equities,Equity,Large-Cap,Value,Developed Markets,Broad,Energy
+EWH,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Pacific ex-Japan,
+AOA,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+UVXY,Leveraged Volatility,Volatility,,,North America,U.S.,
+TBT,Leveraged Bonds,Bond,,,North America,U.S.,
+EUFN,Financials Equities,Equity,Large-Cap,Value,Developed Europe,Broad,Financials
+QQEW,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+URTH,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+EBND,Emerging Markets Bonds,Bond,,,Broad Asia,Pacific ex-Japan,
+VIOV,Small Cap Value Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+OIH,Energy Equities,Equity,Multi-Cap,Value,Developed Markets,Broad,Energy
+IGOV,International Government Bonds,Bond,,,Developed Markets,Broad,
+IPAC,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Broad,
+SDOG,Large Cap Value Equities,Equity,Multi-Cap,Value,North America,U.S.,
+EWW,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Mexico,
+IWX,Large Cap Blend Equities,Equity,Mega-Cap,Blend,North America,U.S.,
+IHF,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+FPXI,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+SIL,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+GSG,Commodities,Commodity,,,,,
+MOO,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+USFR,Government Bonds,Bond,,,North America,U.S.,
+PXF,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+FEX,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+TLH,Government Bonds,Bond,,,North America,U.S.,
+UCO,Leveraged Commodities,Commodity,,,,,
+EDV,Government Bonds,Bond,,,North America,U.S.,
+FTC,Large Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+LDUR,Total Bond Market,Bond,,,Developed Markets,Broad,
+FXO,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+FUTY,Utilities Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+PNQI,Large Cap Growth Equities,Equity,Large-Cap,Growth,Developed Markets,Broad,Technology
+EEMA,Asia Pacific Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+BWX,International Government Bonds,Bond,,,Developed Markets,Broad,
+XSD,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+SIZE,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+NXTG,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Telecom
+VTHR,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+RWL,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+XMMO,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+FTA,Large Cap Value Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+PICK,Materials,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+NUGT,Leveraged Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+CXSE,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+RWX,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+IVOG,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+PFXF,Preferred Stock/Convertible Bonds,Preferred Stock,Multi-Cap,Blend,North America,U.S.,
+IHDG,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+AGZ,Total Bond Market,Bond,,,Developed Markets,Broad,
+SPLB,Corporate Bonds,Bond,,,North America,U.S.,
+FNX,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+PEY,All Cap Equities,Equity,Multi-Cap,Value,North America,U.S.,
+FYX,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+SIVR,Precious Metals,Commodity,,,,,
+AOK,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+SDIV,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+RCD,Consumer Discretionary Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+FENY,Energy Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+DTD,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+GLTR,Precious Metals,Commodity,,,,,
+ILCB,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+IWL,Large Cap Growth Equities,Equity,Mega-Cap,Growth,North America,U.S.,
+IMCB,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+CGW,Water Equities ,Equity,Multi-Cap,Blend,Developed Markets,Broad,Industrials
+CFO,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+JPIN,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+BSJM,High Yield Bonds,Bond,,,North America,U.S.,
+FSTA,Consumer Staples Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+UDOW,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FTGC,Commodities,Commodity,,,,,
+PCEF,Total Bond Market,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+STPZ,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+DVYE,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+GWX,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+FIW,Water Equities ,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+VTWV,Small Cap Value Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+CDC,Large Cap Value Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+MLPA,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+DBA,Agricultural Commodities,Commodity,,,,,
+KBA,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+ISCG,Small Cap Growth Equities,Equity,Small-Cap,Growth,North America,U.S.,
+IDU,Utilities Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+EPI,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+GMF,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Broad,
+IYK,Consumer Staples Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+RYH,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+DHS,Large Cap Value Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CORP,Corporate Bonds,Bond,,,Developed Markets,Broad,
+CRBN,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+XHE,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+IDLV,Volatility Hedged Equity,Equity,Large-Cap,Blend,Developed Markets,Broad,
+UYG,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+EWQ,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+QAI,Long-Short,Alternatives,,,Developed Markets,Broad,
+FIDU,Industrials Equities,Equity,Large-Cap,Blend,North America,U.S.,Industrials
+HYEM,High Yield Bonds,Bond,,,Global,Broad,
+SILJ,Materials,Equity,Small-Cap,Blend,Developed Markets,Broad,Materials
+BSJL,High Yield Bonds,Bond,,,North America,U.S.,
+XTN,Transportation Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+MNA,Hedge Fund,Alternatives,,,Developed Markets,Broad,
+VTWG,Small Cap Growth Equities,Equity,Small-Cap,Growth,North America,U.S.,
+PPA,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+MXI,Materials,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+EWS,Asia Pacific Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+PWB,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+MLPX,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+ROM,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+UWM,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+EZM,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+PWV,Large Cap Value Equities,Equity,Large-Cap,Value,North America,U.S.,
+IVOV,Mid Cap Value Equities,Equity,Mid-Cap,Value,North America,U.S.,
+RDIV,All Cap Equities,Equity,Multi-Cap,Value,North America,U.S.,
+FCOM,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,Telecom
+PHB,High Yield Bonds,Bond,,,North America,U.S.,
+INDY,Asia Pacific Equities,Equity,Mega-Cap,Blend,Emerging Asia Pacific,India,
+LGLV,Volatility Hedged Equity,Equity,Multi-Cap,Blend,North America,U.S.,
+CFA,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IPO,All Cap Equities,Equity,Multi-Cap,Growth,Developed Markets,Broad,
+IAT,Financials Equities,Equity,Multi-Cap,Value,North America,U.S.,Financials
+CHIQ,China Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,Consumer Discretionary
+XNTK,Technology Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+COPX,Materials,Equity,Multi-Cap,Blend,Global,Broad,Materials
+TIPX,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+ILCV,Large Cap Value Equities,Equity,Large-Cap,Value,North America,U.S.,
+DIV,Volatility Hedged Equity,Equity,Multi-Cap,Blend,North America,U.S.,
+EQAL,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+RTM,Materials,Equity,Mid-Cap,Blend,North America,U.S.,Materials
+DWX,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+PSQ,Inverse Equities,Equity,Large-Cap,Growth,North America,U.S.,
+SDS,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+REMX,Materials,Equity,Multi-Cap,Blend,Broad Asia,Broad,Materials
+IYM,Materials,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+XRT,Consumer Discretionary Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+PSJ,All Cap Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+MUNI,National Munis,Bond,,,North America,U.S.,
+DJP,Commodities,Commodity,,,,,
+TLTD,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+EES,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+DWM,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+PFM,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EWX,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+QEFA,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+TDTF,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+PTH,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+CMBS,Mortgage Backed Securities,Bond,,,North America,U.S.,
+IGHG,Corporate Bonds,Bond,,,Developed Markets,Broad,
+AGQ,Leveraged Commodities,Commodity,,,Broad Asia,Pacific ex-Japan,
+COMT,Commodities,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+PSI,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+IQDF,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+DTN,Large Cap Value Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+PID,Global Equities,Equity,Multi-Cap,Blend,Global ex-U.S.,Broad,
+LTPZ,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+SPGM,Global Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+VIOG,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+SVXY,Leveraged Volatility,Volatility,,,North America,U.S.,
+KXI,Consumer Staples Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Consumer Staples
+FLTR,Corporate Bonds,Bond,,,Developed Markets,Broad,
+ECH,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Latin America,Chile,
+EWP,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+GNMA,Mortgage Backed Securities,Bond,,,North America,U.S.,
+URA,Commodity Producers Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+LQDH,Corporate Bonds,Bond,,,North America,U.S.,
+PSCH,Health & Biotech Equities,Equity,Micro-Cap,Growth,North America,U.S.,Healthcare
+EPS,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+TBF,Inverse Bonds,Bond,,,North America,U.S.,
+VIDI,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Global,Broad,
+HEZU,Europe Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+FEP,Europe Equities,Equity,Multi-Cap,Blend,Developed Europe,Broad,
+NYF,New York Munis,Bond,,,North America,U.S.,
+SPXU,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FEM,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+DWAS,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+REZ,Real Estate,Real Estate,Mid-Cap,Blend,North America,U.S.,Real Estate
+BBH,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+PWZ,California Munis,Bond,,,North America,U.S.,
+QDEF,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+DBO,Oil & Gas,Commodity,,,,,
+ERUS,Europe Equities,Equity,Multi-Cap,Blend,Emerging Europe,Russia,Energy
+VNM,Asia Pacific Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,Vietnam,
+RWJ,Small Cap Value Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+IXG,Financials Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Financials
+EWD,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+XSW,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+MDIV,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+LEMB,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+FNY,Mid Cap Growth Equities,Equity,Mid-Cap,Growth,North America,U.S.,
+RGI,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+RHS,Consumer Staples Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+IMCV,Mid Cap Value Equities,Equity,Mid-Cap,Value,North America,U.S.,
+PSCT,Technology Equities,Equity,Micro-Cap,Growth,North America,U.S.,Technology
+URTY,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+CSM,Long-Short,Equity,Multi-Cap,Blend,North America,U.S.,
+DDM,Leveraged Equities,Equity,Mega-Cap,Blend,North America,U.S.,
+RING,Materials,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+FYC,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+FGD,Global Equities,Equity,Multi-Cap,Value,Developed Markets,Broad,
+FTSD,Mortgage Backed Securities,Bond,,,North America,U.S.,
+KIE,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+RXI,Consumer Discretionary Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Consumer Discretionary
+FM,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Frontier Markets,Broad,
+SOCL,Large Cap Growth Equities,Equity,Large-Cap,Growth,Global,Broad,Technology
+OUNZ,Precious Metals,Commodity,,,,,
+IYZ,Communications Equities,Equity,Multi-Cap,Blend,North America,U.S.,Telecom
+PBD,Alternative Energy Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Energy
+THD,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Thailand,
+RAVI,Total Bond Market,Bond,,,Global,Broad,
+DBEU,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+EXI,Industrials Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Industrials
+VUSE,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+ISCV,Small Cap Value Equities,Equity,Small-Cap,Blend,North America,U.S.,
+ILTB,Total Bond Market,Bond,,,Developed Markets,Broad,
+GII,Utilities Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Utilities
+FAN,Alternative Energy Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Energy
+GBF,Total Bond Market,Bond,,,North America,U.S.,
+SDOW,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+WIP,Inflation-Protected Bonds,Bond,,,Developed Markets,Broad,
+IAI,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+PALL,Precious Metals,Commodity,,,,,
+IGE,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+VBND,Total Bond Market,Bond,,,North America,U.S.,
+KBWD,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+FMAT,Materials,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+SPXS,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+RFG,Small Cap Growth Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+RWK,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+EMHY,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+PDN,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Global ex-U.S.,Broad,
+YINN,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+EUSA,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+UUP,Currency,Currency,,,North America,U.S.,
+SPGP,Large Cap Growth Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+BIZD,Financials Equities,Equity,Micro-Cap,Blend,North America,U.S.,Financials
+FDT,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+HAUZ,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+SMMU,National Munis,Bond,,,North America,U.S.,
+IEZ,Energy Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+CAPE,Global Equities,Equity,Large-Cap,Blend,North America,U.S.,
+QQQE,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+PJP,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+RZV,Small Cap Value Equities,Equity,Micro-Cap,Value,North America,U.S.,
+DNL,Foreign Large Cap Equities,Equity,Large-Cap,Growth,Broad Asia,Broad,
+IHE,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+DOL,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+VIXY,Volatility,Volatility,,,North America,U.S.,
+EZA,Emerging Markets Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EWI,Europe Equities,Equity,Large-Cap,Value,North America,U.S.,
+ULST,Total Bond Market,Bond,,,Developed Markets,Broad,
+HEWJ,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+YYY,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+TFLO,Government Bonds,Bond,,,North America,U.S.,
+WOOD,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+EIDO,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Indonesia,
+BNO,Oil & Gas,Commodity,,,,,
+FNDB,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CEMB,Corporate Bonds,Bond,,,Emerging Markets,Broad,
+EDIV,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+RYF,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+FTLS,Long-Short,Alternatives,,,North America,U.S.,
+SPBO,Corporate Bonds,Bond,,,Developed Markets,Broad,
+IXP,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Telecom
+SYLD,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+EWN,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+PTF,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+SMIN,Asia Pacific Equities,Equity,Mid-Cap,Blend,Emerging Asia Pacific,India,
+TZA,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+EEMS,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+EWM,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Malaysia,
+DFE,Europe Equities,Equity,Multi-Cap,Value,Developed Europe,Broad,
+FXE,Currency,Currency,,,Developed Europe,Broad,
+KBWY,Real Estate,Real Estate,Micro-Cap,Blend,North America,U.S.,Real Estate
+PRN,Industrials Equities,Equity,Multi-Cap,Growth,North America,U.S.,Industrials
+FXN,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+SMLV,Volatility Hedged Equity,Equity,Micro-Cap,Blend,North America,U.S.,
+MORT,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+SMOG,Energy Equities,Equity,Multi-Cap,Growth,Developed Markets,Broad,Energy
+FNI,Asia Pacific Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,Chindia,
+DBB,Metals,Commodity,,,Global,Broad,
+GQRE,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+TLTE,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,
+FLTB,Corporate Bonds,Bond,,,Global,Broad,
+SPHY,High Yield Bonds,Bond,,,North America,U.S.,
+PGJ,China Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,
+ZROZ,Government Bonds,Bond,,,North America,U.S.,
+FCOR,Corporate Bonds,Bond,,,Developed Markets,Broad,
+FXZ,Materials,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+SKOR,Corporate Bonds,Bond,,,North America,U.S.,
+SMB,National Munis,Bond,,,North America,U.S.,
+SHYD,National Munis,Bond,,,North America,U.S.,
+EELV,Volatility Hedged Equity,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+IFV,Global Equities,Equity,Multi-Cap,Blend,Global,Broad,
+CZA,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+PBE,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+SLVP,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+FXF,Currency,Currency,,,Developed Europe,Switzerland,
+UNG,Oil & Gas,Commodity,,,,,
+GAL,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+GRID,Alternative Energy Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+DOG,Inverse Equities,Equity,Large-Cap,Blend,North America,U.S.,
+XPH,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+FEMB,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+FYT,Small Cap Value Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+TUR,Emerging Markets Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SBIO,Health & Biotech Equities,Equity,Small-Cap,Growth,North America,U.S.,Healthcare
+PIO,Water Equities ,Equity,Multi-Cap,Blend,Developed Markets,Broad,Industrials
+PKB,Building & Construction ,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+FXG,Consumer Staples Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Staples
+IYLD,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+ISCB,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+IBND,Corporate Bonds,Bond,,,Developed Markets,Broad,
+RWM,Inverse Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+DEF,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IFGL,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+IEO,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+KBWP,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+TMV,Leveraged Bonds,Bond,,,North America,U.S.,
+PPH,Health & Biotech Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Healthcare
+EDC,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+SGDM,Materials,Equity,Multi-Cap,Blend,North America,Canada,Materials
+PGHY,High Yield Bonds,Bond,,,Global,Broad,
+EPOL,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+XSVM,Small Cap Value Equities,Equity,Small-Cap,Blend,North America,U.S.,
+PIE,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+WDIV,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+FDD,Europe Equities,Equity,Multi-Cap,Value,Developed Europe,Broad,
+MLN,National Munis,Bond,,,North America,U.S.,
+USD,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+QID,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,
+ADRE,Asia Pacific Equities,Equity,Mega-Cap,Blend,Emerging Markets,Broad,
+AMZA,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+UGL,Leveraged Commodities,Commodity,,,,,
+HEEM,Emerging Markets Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+PSP,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Financials
+SPFF,Preferred Stock/Convertible Bonds,Preferred Stock,Micro-Cap,Blend,Developed Markets,Broad,
+FAD,All Cap Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+BWZ,International Government Bonds,Bond,,,Developed Markets,Broad,
+RYU,Utilities Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+DBJP,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+USL,Oil & Gas,Commodity,,,,,
+XMHQ,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+BIB,Leveraged Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+IEUS,Europe Equities,Equity,Multi-Cap,Value,Developed Europe,Broad,Technology
+RTH,Consumer Discretionary Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Discretionary
+EQL,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+DFJ,Japan Equities,Equity,Mid-Cap,Blend,Developed Asia Pacific,Japan,
+FCG,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+CPER,Metals,Commodity,,,,,
+DGRS,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+FXY,Currency,Currency,,,Developed Asia Pacific,Japan,
+BYLD,Total Bond Market,Bond,,,Developed Markets,Broad,
+ENZL,Asia Pacific Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,New Zealand,
+GHYG,High Yield Bonds,Bond,,,Developed Markets,Broad,
+PIZ,Foreign Large Cap Equities,Equity,Large-Cap,Growth,Global ex-U.S.,Broad,
+ECON,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,Consumer Staples
+QVAL,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+DTH,Foreign Large Cap Equities,Equity,Large-Cap,Value,Developed Markets,Broad,
+FXC,Currency,Currency,,,North America,Canada,
+TMF,Leveraged Bonds,Bond,,,North America,U.S.,
+MVV,Leveraged Equities,Equity,Small-Cap,Blend,North America,U.S.,
+ATMP,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+USCI,Commodities,Commodity,,,Global,Broad,
+AIRR,Building & Construction ,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+FXU,Utilities Equities,Equity,Mid-Cap,Value,North America,U.S.,Utilities
+DIG,Leveraged Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+TOK,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+XSMO,Small Cap Growth Equities,Equity,Small-Cap,Blend,North America,U.S.,
+IDOG,Foreign Large Cap Equities,Equity,Large-Cap,Value,Developed Markets,Broad,
+EDEN,Europe Equities,Equity,Large-Cap,Growth,North America,U.S.,
+XMPT,Total Bond Market,Bond,,,North America,U.S.,
+FDM,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+BKF,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+PBP,Large Cap Blend Equities,Multi-Asset,Large-Cap,Blend,North America,U.S.,
+FXB,Currency,Currency,,,Developed Europe,United Kingdom,
+CORN,Agricultural Commodities,Commodity,,,,,
+TOLZ,Utilities Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Utilities
+FXA,Currency,Currency,,,Developed Asia Pacific,Australia,
+BJK,Consumer Discretionary Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Consumer Discretionary
+SPEU,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+GREK,Emerging Markets Equities,Equity,Large-Cap,Blend,Developed Europe,Greece,Financials
+TIPZ,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+PXI,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+JXI,Utilities Equities,Equity,Large-Cap,Value,Developed Markets,Broad,Utilities
+RYE,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+EPU,Mid Cap Blend Equities,Equity,Mid-Cap,Blend,Latin America,Peru,
+XES,Energy Equities,Equity,Micro-Cap,Value,Developed Markets,Broad,Energy
+EIS,Global Equities,Equity,Multi-Cap,Blend,Middle East,Israel,
+DIM,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+DOO,Foreign Large Cap Equities,Equity,Large-Cap,Value,Developed Markets,Broad,
+QQXT,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+GCC,Commodities,Commodity,,,Global,Broad,
+XHS,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+FBGX,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,
+FAZ,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+CURE,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+FEMS,Emerging Markets Equities,Equity,Mid-Cap,Blend,Emerging Markets,Broad,
+RFV,Small Cap Value Equities,Equity,Small-Cap,Value,North America,U.S.,
+RZG,Small Cap Growth Equities,Equity,Micro-Cap,Growth,North America,U.S.,
+BFOR,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+SLX,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+HYZD,High Yield Bonds,Bond,,,North America,U.S.,
+PHDG,Hedge Fund,Equity,Multi-Cap,Blend,Developed Markets,Broad,Financials
+RYJ,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+QABA,Financials Equities,Equity,Micro-Cap,Blend,North America,U.S.,Financials
+EPHE,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Philippines,
+CVY,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+EFAD,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+ELD,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+AGZD,Total Bond Market,Bond,,,North America,U.S.,
+PSCE,Energy Equities,Equity,Micro-Cap,Blend,North America,U.S.,Energy
+RVNU,National Munis,Bond,,,North America,U.S.,
+PWC,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+PIN,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+IVAL,Global Equities,Equity,Multi-Cap,Value,Global ex-U.S.,Broad,
+WTMF,Hedge Fund,Alternatives,,,North America,U.S.,
+RJI,Commodities,Commodity,,,,,
+IPKW,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+RXL,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+GVAL,,,,,,,
+DBAW,,,,,,,
+HYLD,High Yield Bonds,Bond,,,Developed Markets,Broad,
+PEZ,,,,,,,
+INKM,Global Equities,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+DBEM,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+DBP,Precious Metals,Commodity,,,,,
+PZT,New York Munis,Bond,,,North America,U.S.,
+VLU,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+FAB,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+PSL,Consumer Staples Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Staples
+DXD,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+UGA,Oil & Gas,Commodity,,,,,
+ZJPN,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+PYZ,Materials,Equity,Multi-Cap,Blend,North America,U.S.,Materials
+LOWC,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+IHY,High Yield Bonds,Bond,,,Global,Broad,
+PSCD,Consumer Discretionary Equities,Equity,Micro-Cap,Blend,North America,U.S.,Consumer Discretionary
+RIGS,High Yield Bonds,Bond,,,North America,U.S.,
+EWMC,Small Cap Blend Equities,Equity,Small-Cap,Blend,North America,U.S.,
+RJA,Agricultural Commodities,Commodity,,,,,
+FGM,Europe Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+MBSD,Mortgage Backed Securities,Bond,,,North America,U.S.,
+ECNS,Asia Pacific Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,
+EWZS,Latin America Equities,Equity,Small-Cap,Blend,Latin America,Brazil,
+EWUS,Europe Equities,Equity,Mid-Cap,Value,Developed Europe,Broad,
+DRN,Leveraged Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+XMVM,Small Cap Value Equities,Equity,Mid-Cap,Blend,North America,U.S.,
+FSZ,Europe Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+RETL,Leveraged Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+IDHQ,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+INDL,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+IGN,Communications Equities,Equity,Multi-Cap,Blend,North America,U.S.,Technology
+CUT,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+BTAL,Long-Short,Alternatives,,,North America,U.S.,
+SRTY,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+PSR,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+CBON,Emerging Markets Bonds,Bond,,,Emerging Asia Pacific,China,
+URE,Leveraged Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+DGP,Leveraged Commodities,Commodity,,,Global,Broad,
+DGRE,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+PLW,Government Bonds,Bond,,,North America,U.S.,
+PICB,Corporate Bonds,Bond,,,Developed Markets,Broad,
+FNK,Small Cap Value Equities,Equity,Small-Cap,Blend,North America,U.S.,
+DGL,Precious Metals,Commodity,,,,,
+MIDU,Leveraged Equities,Equity,Small-Cap,Blend,North America,U.S.,
+HYHG,High Yield Bonds,Bond,,,North America,U.S.,
+SCO,Leveraged Commodities,Commodity,,,,,
+INCO,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,Consumer Discretionary
+SOYB,Agricultural Commodities,Commodity,,,,,
+DGT,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+RESP,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+MINC,Total Bond Market,Bond,,,North America,U.S.,
+PSCI,Industrials Equities,Equity,Micro-Cap,Blend,North America,U.S.,Industrials
+QEMM,Emerging Markets Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+JPXN,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+TBX,Inverse Bonds,Bond,,,North America,U.S.,
+KBWR,Financials Equities,Equity,Small-Cap,Blend,North America,U.S.,Financials
+IAK,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+DBE,Oil & Gas,Commodity,,,,,
+BICK,Emerging Markets Equities,Equity,Multi-Cap,Blend,Emerging Markets,BICK,
+USDU,Currency,Currency,,,North America,U.S.,
+PBS,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Discretionary
+WPS,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+FRI,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+AADR,Global Equities,Equity,Multi-Cap,Blend,Global,Broad,
+UDN,Currency,Currency,,,North America,U.S.,
+WEAT,Agricultural Commodities,Commodity,,,,,
+EQWL,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+QAT,,,,,,,
+TTT,,,,,,,
+XTL,Communications Equities,Equity,Multi-Cap,Blend,North America,U.S.,Telecom
+MMTM,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+PBJ,Consumer Staples Equities,Equity,Multi-Cap,Blend,North America,U.S.,Consumer Staples
+RLY,Hedge Fund,Alternatives,,,Developed Markets,Broad,
+ISRA,Global Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Technology
+VIXM,Volatility,Volatility,,,North America,U.S.,
+HYGH,High Yield Bonds,Bond,,,North America,U.S.,
+CSD,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+BOIL,Leveraged Commodities,Commodity,,,,,
+KCE,Financials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+EET,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+TWM,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+CARZ,Consumer Discretionary Equities,Equity,Large-Cap,Value,Developed Markets,Broad,Consumer Discretionary
+HEWG,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+IBDD,Corporate Bonds,Bond,,,North America,U.S.,
+GURU,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+IQDE,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+GLIN,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+FDIV,All Cap Equities,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+FILL,Energy Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Energy
+KOLD,Leveraged Commodities,Commodity,,,,,
+PXE,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+HAP,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+DEW,Large Cap Value Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+VEGI,Large Cap Blend Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+PXJ,Energy Equities,Equity,Multi-Cap,Value,Developed Markets,Broad,Energy
+SCJ,Japan Equities,Equity,Mid-Cap,Blend,Developed Asia Pacific,Japan,
+TECS,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+DRW,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+SJB,Inverse Bonds,Bond,,,North America,U.S.,
+EIRL,Europe Equities,Equity,Multi-Cap,Value,Developed Europe,Broad,
+KORU,Leveraged Equities,Equity,Large-Cap,Value,Developed Asia Pacific,South Korea,
+IPFF,Preferred Stock/Convertible Bonds,Preferred Stock,Multi-Cap,,North America,Canada,
+SOXS,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+FTHI,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+HYXU,High Yield Bonds,Bond,,,Developed Markets,Broad,
+EMCB,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+CSF,Small Cap Blend Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+CHIX,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,Financials
+EWO,Europe Equities,Equity,Multi-Cap,Value,North America,U.S.,
+QSY,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+UYM,Leveraged Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+ISHG,International Government Bonds,Bond,,,Developed Markets,Broad,
+EWSC,Small Cap Blend Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+EUO,Leveraged Currency,Currency,,,Developed Europe,Broad,
+HDGE,Inverse Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+ZCAN,Global Equities,Equity,Multi-Cap,Blend,North America,Canada,
+AFK,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Africa,Broad,
+UMDD,Leveraged Equities,Equity,Small-Cap,Blend,North America,U.S.,
+WBII,High Yield Bonds,Bond,Multi-Cap,Blend,Developed Markets,Broad,
+EVX,Industrials Equities,Equity,Multi-Cap,Blend,North America,U.S.,Industrials
+PFIG,Corporate Bonds,Bond,,,North America,U.S.,
+CPI,Hedge Fund,Alternatives,,,North America,U.S.,
+GOEX,Materials,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+ARGT,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Argentina,
+GAA,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+BBC,Health & Biotech Equities,Equity,Multi-Cap,Blend,North America,U.S.,Healthcare
+ENFR,Energy Equities,Equity,Multi-Cap,Blend,North America,Broad,Energy
+OIL,Oil & Gas,Commodity,,,Global,Broad,
+FMF,Hedge Fund,Alternatives,,,North America,U.S.,
+DEEP,Small Cap Value Equities,Equity,Multi-Cap,Value,North America,U.S.,
+PUI,Utilities Equities,Equity,Multi-Cap,Blend,North America,U.S.,Utilities
+QWLD,Large Cap Growth Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+PVI,National Munis,Bond,,,North America,U.S.,
+IQDY,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+ROOF,Real Estate,Real Estate,Micro-Cap,Blend,North America,U.S.,Real Estate
+PFI,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,Financials
+CYB,Currency,Currency,,,Emerging Asia Pacific,China,
+HOLD,Total Bond Market,Bond,,,North America,U.S.,
+EUDG,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+PSCF,Financials Equities,Equity,Micro-Cap,Blend,North America,U.S.,Financials
+WBIF,Global Equities,Equity,Multi-Cap,Value,North America,U.S.,Telecom
+PSCC,Consumer Staples Equities,Equity,Micro-Cap,Blend,North America,U.S.,Consumer Staples
+DBLV,Large Cap Blend Equities,Equity,Large-Cap,Blend,North America,U.S.,
+BRF,Latin America Equities,Equity,Small-Cap,Blend,Latin America,Brazil,
+ZSL,Leveraged Commodities,Commodity,,,,,
+WBIG,Global Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+CNXT,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+DVYA,Asia Pacific Equities,Equity,Multi-Cap,Blend,Developed Asia Pacific,Broad,
+SAA,Leveraged Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+NORW,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SNLN,High Yield Bonds,Bond,,,Developed Markets,Broad,
+PXQ,Technology Equities,Equity,Multi-Cap,Growth,North America,U.S.,Technology
+WBIL,Global Equities,Equity,Multi-Cap,Blend,Global,Broad,Consumer Staples
+EWGS,Europe Equities,Equity,Small-Cap,Value,North America,U.S.,
+GXG,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Colombia,
+GLL,Leveraged Commodities,Commodity,,,,,
+CIZ,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+NGE,Emerging Markets Equities,Equity,Multi-Cap,Blend,Africa,Nigeria,
+GYLD,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,Developed Markets,Broad,
+FJP,Japan Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+HDG,Long-Short,Alternatives,,,North America,U.S.,
+MRGR,Hedge Fund,Alternatives,,,Developed Markets,Broad,
+EURL,Leveraged Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+PST,Leveraged Bonds,Bond,,,North America,U.S.,
+EWK,Europe Equities,Equity,Large-Cap,Value,North America,U.S.,
+ASHS,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+XPP,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+GLCN,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Global ex-U.S.,Broad,
+DAX,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Germany,
+YANG,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+BCM,Commodities,Commodity,,,,,
+DDIV,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+YCS,Leveraged Currency,Currency,,,Developed Asia Pacific,Japan,
+ENOR,Europe Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+IPOS,Foreign Large Cap Equities,Equity,Large-Cap,Blend,Broad Asia,Broad,
+IDX,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,Indonesia,
+EFNL,Europe Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+FID,Foreign Large Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+RSXJ,Emerging Markets Equities,Equity,Small-Cap,Blend,Emerging Europe,Broad,
+FFR,Global Real Estate,Real Estate,Multi-Cap,Blend,Developed Markets,Broad,Real Estate
+ASEA,Asia Pacific Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+DXGE,Europe Equities,Equity,Large-Cap,Value,North America,U.S.,
+DXJS,Japan Equities,Equity,Mid-Cap,Blend,Developed Asia Pacific,Japan,
+GXF,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CN,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+ZDEU,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,Germany,
+UXI,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Industrials
+BBP,Health & Biotech Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+IBCE,Corporate Bonds,Bond,,,North America,U.S.,
+RDOG,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+FYLD,Global Equities,Equity,Multi-Cap,Blend,Global ex-U.S.,Broad,
+ALFA,All Cap Equities,Equity,Multi-Cap,Growth,North America,U.S.,
+UAE,Emerging Markets Equities,Equity,Multi-Cap,Blend,Middle East,United Arab Emirates,
+SPUU,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,
+DBV,Currency,Currency,,,Developed Markets,Broad,
+UCC,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+DBS,Precious Metals,Commodity,,,,,
+FEUZ,Europe Equities,Equity,Multi-Cap,Blend,Developed Europe,Broad,
+EINC,Energy Equities,Equity,Multi-Cap,Blend,North America,Broad,Energy
+PSCM,Materials,Equity,Micro-Cap,Blend,North America,U.S.,Materials
+PSCU,Utilities Equities,Equity,Small-Cap,Blend,North America,U.S.,Utilities
+SPVM,Large Cap Value Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+SYE,Large Cap Growth Equities,Equity,Large-Cap,Blend,North America,U.S.,
+EDZ,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+UBT,Leveraged Bonds,Bond,,,North America,U.S.,
+LBJ,Leveraged Equities,Equity,Large-Cap,Blend,Latin America,Broad,
+EDOG,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+UJB,Leveraged Bonds,Bond,,,Developed Markets,Broad,
+NLR,Alternative Energy Equities,Equity,Multi-Cap,Value,Developed Markets,Broad,Energy
+EUM,Inverse Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+SRS,Leveraged Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+ICOL,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Colombia,
+FXP,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+FKU,Europe Equities,Equity,Multi-Cap,Value,North America,U.S.,
+FPA,Asia Pacific Equities,Equity,Large-Cap,Blend,Broad Asia,Pacific ex-Japan,
+FTRI,Commodity Producers Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+QDYN,All Cap Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+UST,Leveraged Bonds,Bond,,,North America,U.S.,
+EMFM,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+GRES,Commodity Producers Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Materials
+PEX,Financials Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Financials
+EGPT,Emerging Markets Equities,Equity,Multi-Cap,Blend,Africa,Egypt,
+DRV,Leveraged Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+CEW,Currency,Currency,,,Emerging Markets,Broad,
+RINF,Inflation-Protected Bonds,Bond,,,North America,U.S.,
+QMN,Long-Short,Alternatives,,,Developed Markets,Broad,
+GSP,Commodities,Commodity,,,,,
+DUG,Leveraged Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+SYV,Large Cap Blend Equities,Equity,Multi-Cap,Blend,North America,U.S.,
+CHIC,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+EMIF,Utilities Equities,Equity,Multi-Cap,Blend,Emerging Markets,Broad,Utilities
+BZQ,Leveraged Equities,Equity,Large-Cap,Blend,Latin America,Brazil,
+NIB,Agricultural Commodities,Commodity,,,,,
+MYY,Inverse Equities,Equity,Small-Cap,Blend,North America,U.S.,
+FRAK,Energy Equities,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+EMAG,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+CANE,Agricultural Commodities,Commodity,,,,,
+SKF,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+PGAL,Europe Equities,Equity,Multi-Cap,Value,Developed Europe,Portugal,
+TYD,Leveraged Bonds,Bond,,,North America,U.S.,
+FCA,China Equities,Equity,Multi-Cap,Blend,Broad Asia,Pacific ex-Japan,
+ZGBR,Europe Equities,Equity,Large-Cap,Blend,Developed Europe,United Kingdom,
+DBEZ,Europe Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,
+SYG,Large Cap Growth Equities,Equity,Large-Cap,Growth,North America,U.S.,
+DBGR,Europe Equities,Equity,Large-Cap,Blend,North America,U.S.,
+TYO,Leveraged Bonds,Bond,,,North America,U.S.,
+EFO,Leveraged Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+IMLP,MLPs,Equity,Multi-Cap,Blend,North America,U.S.,Energy
+UPW,Leveraged Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+VEGA,Global Equities,Multi-Asset,Large-Cap,Blend,Developed Markets,Broad,
+EFZ,Inverse Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+SMEZ,Europe Equities,Equity,Multi-Cap,Blend,Developed Europe,Broad,
+XVZ,Volatility,Volatility,,,North America,U.S.,
+UGE,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+KFYP,China Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+SEF,Inverse Equities,Equity,Large-Cap,Blend,North America,U.S.,Financials
+BIS,Leveraged Equities,Equity,Multi-Cap,Growth,North America,U.S.,Healthcare
+KCNY,Total Bond Market,Bond,,,North America,U.S.,
+FLN,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Broad,
+REK,Real Estate,Real Estate,Multi-Cap,Blend,North America,U.S.,Real Estate
+ALTS,Long-Short,Alternatives,,,North America,U.S.,
+FDTS,Foreign Small & Mid Cap Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+WBIE,Large Cap Growth Equities,Equity,Multi-Cap,Blend,Developed Markets,Broad,Consumer Staples
+EEMO,Emerging Markets Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+EPV,Leveraged Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+UNL,Oil & Gas,Commodity,,,,,
+FLM,Building & Construction ,Equity,Mid-Cap,Blend,Developed Markets,Broad,Materials
+DZZ,Leveraged Commodities,Commodity,,,Global,Broad,
+IDMO,Global Equities,Equity,Multi-Cap,Blend,Global ex-U.S.,Broad,
+EMSH,Emerging Markets Bonds,Bond,,,Emerging Markets,Broad,
+FBZ,Latin America Equities,Equity,Multi-Cap,Blend,Latin America,Brazil,
+UBR,Leveraged Equities,Equity,Large-Cap,Blend,Latin America,Brazil,
+NFTY,Asia Pacific Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,India,
+REW,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+EZJ,Leveraged Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+DFVL,Leveraged Bonds,Bond,,,North America,U.S.,
+EEV,Leveraged Equities,Equity,Large-Cap,Blend,Emerging Markets,Broad,
+FWDB,Total Bond Market,Bond,,,North America,U.S.,
+SBB,Inverse Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+FTLB,Long-Short,Equity,Multi-Cap,Blend,Developed Markets,Broad,
+SMDD,Leveraged Equities,Equity,Small-Cap,Blend,North America,U.S.,
+TAGS,Agricultural Commodities,Commodity,,,,,
+EWV,Leveraged Equities,Equity,Large-Cap,Blend,Developed Asia Pacific,Japan,
+RJZ,Metals,Commodity,,,,,
+CHIM,China Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,Materials
+UPV,Leveraged Equities,Equity,Large-Cap,Blend,Developed Europe,Broad,
+RALS,Long-Short,Alternatives,Large-Cap,Blend,North America,U.S.,
+MCRO,Global Equities,Alternatives,,,Developed Markets,Broad,
+FTAG,Large Cap Blend Equities,Equity,Large-Cap,Blend,Developed Markets,Broad,Materials
+GRU,Agricultural Commodities,Commodity,,,,,
+DWAT,Diversified Portfolio,Multi-Asset,Multi-Cap,Blend,North America,U.S.,
+WIL,Global Equities,Equity,Large-Cap,Blend,North America,U.S.,
+ULE,Leveraged Currency,Currency,,,Developed Europe,Broad,
+YXI,Inverse Equities,Equity,Large-Cap,Blend,Emerging Asia Pacific,China,
+RJN,Oil & Gas,Commodity,,,,,
+DDG,Inverse Equities,Equity,Multi-Cap,Value,North America,U.S.,Energy
+SSG,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Technology
+CHIE,China Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,Energy
+YCL,Leveraged Currency,Currency,,,Developed Asia Pacific,Japan,
+DFVS,Inverse Bonds,Bond,,,North America,U.S.,
+SDP,Leveraged Equities,Equity,Multi-Cap,Value,North America,U.S.,Utilities
+RODI,Global Equities,Equity,Large-Cap,Blend,North America,U.S.,
+CHII,China Equities,Equity,Multi-Cap,Blend,Emerging Asia Pacific,China,Industrials
+LTL,Leveraged Equities,Equity,Multi-Cap,Blend,North America,U.S.,Telecom
+SDD,Leveraged Equities,Equity,Micro-Cap,Blend,North America,U.S.,
+CROC,Leveraged Currency,Currency,,,Developed Asia Pacific,Australia,
+MZZ,Leveraged Equities,Equity,Small-Cap,Blend,North America,U.S.,
+EUFX,Currency,Currency,,,Developed Europe,Broad,
+SMN,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Materials
+EFU,Leveraged Equities,Equity,Large-Cap,Blend,Developed Markets,EAFE,
+RXD,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Healthcare
+EEH,Global Equities,Equity,Large-Cap,Blend,North America,U.S.,
+SBM,Inverse Equities,Equity,Large-Cap,Blend,North America,U.S.,Materials
+SZK,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Consumer Staples
+SIJ,Leveraged Equities,Equity,Large-Cap,Blend,North America,U.S.,Industrials
+SCC,Leveraged Equities,Equity,Large-Cap,Growth,North America,U.S.,Consumer Discretionary
+FUE,Agricultural Commodities,Commodity,,,,,
+LD,Metals,Commodity,,,,,
