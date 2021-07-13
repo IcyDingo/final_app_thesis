@@ -1,0 +1,32 @@
+Ticker,Category,Inception,kmean_env_cluster,Kmean_Social_cluster,Kmean_Gov_cluster
+PSCH,Health,2010-04-07,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SKYY,Technology,2011-07-05,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+EUSA,Large Blend,2010-05-05,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IAK,Financial,2006-05-05,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SMH,Technology,2011-12-20,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IWO,Small Growth,2000-07-24,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KCE,Financial,2005-11-15,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SIZE,Large Blend,2013-04-16,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IJT,Small Growth,2000-07-24,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+WBIE,Large Blend,2014-08-25,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+EWX,Diversified Emerging Mkts,2008-05-12,,,
+HACK,Technology,2014-11-12,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CZA,Mid-Cap Blend,2007-04-02,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+SPMD,Mid-Cap Blend,2005-11-15,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FEMS,Diversified Emerging Mkts,2012-02-15,,,
+BIZD,Financial,2013-02-11,,,
+ARKW,Technology,2014-09-30,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+CFA,Large Blend,2014-07-01,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+URA,Natural Resources,2010-11-04,,,
+XPH,Health,2006-06-19,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PJP,Health,2005-06-23,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+VIOG,Small Growth,2010-09-09,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+KBWR,Financial,2011-11-01,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+PXQ,Technology,2005-06-23,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+FXR,Industrials,2007-05-08,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IYH,Health,2000-06-12,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+AIRR,Industrials,2014-03-10,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+IGV,Technology,2001-07-10,High Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility
+LGLV,Large Blend,2013-02-20,Neutral Env_Responsibility,Neutral Social_Responsibility,Neutral Gov_Responsibility
+IHF,Health,2006-05-05,Neutral Env_Responsibility,High Social_Responsibility,High Gov_Responsibility
+XSMO,Small Growth,2005-03-03,Neutral Env_Responsibility,High Social_Responsibility,Neutral Gov_Responsibility

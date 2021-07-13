@@ -5,13 +5,11 @@ from multiApp import MultiApp
 st.set_page_config(layout="wide")
 app = MultiApp() # Getting MultiApp
 
-st.title("Portfolio Diversification Analysis")
-
 
 #adding apllicaitons 
 app.add_app("Intro", intro.app)
-app.add_app("algo_1", algo_1.app)
-app.add_app("algo_2", algo_2.app)
+app.add_app("Portfolio Diversification Framework", algo_1.app)
+#app.add_app("Check Portfolio Diversification", algo_2.app)
 
 app.run()
 
