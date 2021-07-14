@@ -596,7 +596,7 @@ def app():
                     status_text = st.empty()
                     performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
                     progress_bar.empty()
-                    performance_w["MSCI World"] = world_cum["MSCI World Cumulative"]
+                    performance_w["MSCI World"] = list(world_cum)
                     fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative","MSCI World"])
                     fig_performance.update_layout(
                             title="Performance of Strategy",
