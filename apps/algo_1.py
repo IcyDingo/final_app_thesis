@@ -143,6 +143,7 @@ def app():
 
     ############################################################## Trading Strategy #################################################################################
     # Trading algorithm that uses the portfolio chosen, and allocated weights accordingly
+    @st.cache(show_spinner=False)
     def calculate_pdi_weights( returns,return_mean_range): 
 
         n = len(returns.columns)
@@ -204,6 +205,7 @@ def app():
 
     ############################################################## Trading Strategy #################################################################################
     # Trading algorithm that finds new portfolios each quarter
+    @st.cache(show_spinner=False)
     def pca_per_weights_rolling(return_data, portfolio, interval, ret_range_mean,pdi_max_train):
             data = return_data.copy() # data containing weekly returns
             tickers = list(data.columns)
@@ -449,7 +451,7 @@ def app():
     #Defining training data
     train_return = returns_weekly_1[returns_weekly_1.index.year <= 2015] # training on data from 2015
     urth_2015 = returns_weekly[returns_weekly.index.year <= 2015]
-    urth_2016 = returns_weekly[returns_weekly.index.year <= 2015]
+    urth_2016 = returns_weekly[returns_weekly.index.year >= 2016]
 
     col4, col5 = st.beta_columns([1.5,1])
     col4.header("ETF's in Universe")
@@ -478,10 +480,7 @@ def app():
     world_std = urth_2015["URTH"].std(axis=0)*np.sqrt(52)
     world_sharpe = world_ret/ world_std
 
-
-    world_cum = pd.DataFrame()
-    world_cum["MSCI World Cumulative"] = urth_2016["URTH"].cumsum(axis=0)
-
+    world_cum = urth_2016["URTH"].cumsum(axis=0)
 
 
     ####################################################################### Portfolio Divercification ######################################################################## 
@@ -599,7 +598,7 @@ def app():
                     performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
                     progress_bar.empty()
                     performance_w["MSCI World"] = world_cum["MSCI World Cumulative"]
-                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative"])
+                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative","MSCI World"])
                     fig_performance.update_layout(
                             title="Performance of Strategy",
                             xaxis_title="Time",
@@ -703,8 +702,8 @@ def app():
                     status_text = st.empty()
                     performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
                     progress_bar.empty()
-                    performance_w["MSCI World"] = world_cum["MSCI World Cumulative"]
-                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cumulative","Max Sharpe Ratio Weights Cumulative","Equal Weights Cumulative"])
+                    performance_w["MSCI World"] = list(world_cum)
+                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cumulative","Max Sharpe Ratio Weights Cumulative","Equal Weights Cumulative","MSCI World"])
                     fig_performance.update_layout(
                             title="Performance of Strategy",
                             xaxis_title="Time",
