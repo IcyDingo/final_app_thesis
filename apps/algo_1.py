@@ -143,14 +143,13 @@ def app():
 
     ############################################################## Trading Strategy #################################################################################
     # Trading algorithm that uses the portfolio chosen, and allocated weights accordingly
-    @st.cache(show_spinner=False)
     def calculate_pdi_weights( returns,return_mean_range): 
 
         n = len(returns.columns)
         eq = [1/n]*n
         w = []
         w.append(eq)
-        for i in range(1,10000):
+        for i in range(1,8000):
             weights = [random.random() for _ in range(n)]
             sum_weights = sum(weights)
             weights = [1*w/sum_weights for w in weights]
