@@ -7,7 +7,7 @@ app = MultiApp() # Getting MultiApp
 
 
 #adding apllicaitons 
-app.add_app("Intro", intro.app)
+#app.add_app("Intro", intro.app)
 app.add_app("Portfolio Diversification Framework", algo_1.app)
 #app.add_app("Check Portfolio Diversification", algo_2.app)
 
