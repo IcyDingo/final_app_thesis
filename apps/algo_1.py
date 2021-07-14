@@ -391,9 +391,9 @@ def app():
             performance_frame["Equal Weights"] = equal_performance
             performance_frame["Max PDI Weights"] = pdi_performance_w
             performance_frame["Max Sharpe Ratio Weights"] = sharpe_performance_w
-            performance_frame["Equal Weights Cummulative"] = performance_frame["Equal Weights"].cumsum(axis=0)
-            performance_frame["Max PDI Weights Cummulative"] = performance_frame["Max PDI Weights"].cumsum(axis=0) # cummulative returns max pdi
-            performance_frame["Max Sharpe Ratio Weights Cummulative"] = performance_frame["Max Sharpe Ratio Weights"].cumsum(axis=0) #cummulative return sharpe ratio
+            performance_frame["Equal Weights Cumulative"] = performance_frame["Equal Weights"].cumsum(axis=0)
+            performance_frame["Max PDI Weights Cumulative"] = performance_frame["Max PDI Weights"].cumsum(axis=0) # cummulative returns max pdi
+            performance_frame["Max Sharpe Ratio Weights Cumulative"] = performance_frame["Max Sharpe Ratio Weights"].cumsum(axis=0) #cummulative return sharpe ratio
 
             weights_frame = pd.DataFrame()
             weights_frame["Period"] = periods_weights
@@ -449,6 +449,7 @@ def app():
     #Defining training data
     train_return = returns_weekly_1[returns_weekly_1.index.year <= 2015] # training on data from 2015
     urth_2015 = returns_weekly[returns_weekly.index.year <= 2015]
+    urth_2016 = returns_weekly[returns_weekly.index.year <= 2015]
 
     col4, col5 = st.beta_columns([1.5,1])
     col4.header("ETF's in Universe")
@@ -460,6 +461,8 @@ def app():
     fig = px.pie(sel_df, names = "Category")
     col5.plotly_chart(fig)
     ####################################################################### World Df ######################################################################## 
+    
+    
     def meanRetAn(data):             
         Result = 1
         
@@ -474,6 +477,12 @@ def app():
     world_ret = meanRetAn(urth_2015["URTH"])
     world_std = urth_2015["URTH"].std(axis=0)*np.sqrt(52)
     world_sharpe = world_ret/ world_std
+
+
+    world_cum = pd.DataFrame()
+    world_cum["MSCI World Cumulative"] = urth_2016["URTH"].cumsum(axis=0)
+
+
 
     ####################################################################### Portfolio Divercification ######################################################################## 
     st.header("Portfolio Generation")
@@ -492,8 +501,8 @@ def app():
         tick_crypto = list(returns_crypto.columns)
         returns_crypto.index = pd.to_datetime(returns_crypto.index)
         number_of_assets_selected = col1.selectbox("Pick number of assets desired to invest in",[0,1,2,3,4,5,6,7,8,9,10] )
-        number_of_cryptos_selected = col1.selectbox("Pick number of Cryptocurrencies",[0,1,2,3,4,5,6,7,8,9] )
-        col2.write("The diversification index desscribes how broad a investment is, withnin the selected universe. The large the index number, the more diversified the portfolio is.")
+        number_of_cryptos_selected = col2.selectbox("Pick number of Cryptocurrencies",[0,1,2,3,4,5,6,7,8,9] )
+        #col2.write("The diversification index desscribes how broad a investment is, withnin the selected universe. The large the index number, the more diversified the portfolio is.")
         returns_merge = pd.merge(returns_crypto,returns_weekly,left_index=True,right_index=True)
         train_return = returns_merge[returns_merge.index.year <= 2015] # training on data from 2015
         if number_of_assets_selected == 0:
@@ -515,21 +524,17 @@ def app():
                 div_choice = st.slider("Diversification Slider", min_value=min, max_value=max)
                 changing_pdi_df = PDI_DF[PDI_DF["PDI_INDEX"].astype(float) >= div_choice]
 
-            col1, col2 = st.beta_columns([2,1])
-            col1.subheader("Different Portfolio combinations")
-            col1.dataframe(changing_pdi_df)
+            
+            st.subheader("Different Portfolio combinations")
+            st.dataframe(changing_pdi_df)
             st.write(len(changing_pdi_df))
-            col2.subheader("Performance of World Index")
-            col2.write("Name of ETF: {}".format("URTH"))
-            col2.write("Sharpe Ratio: {}".format(world_sharpe.round(3)))
-            col2.write("Annual Mean Return: {}".format(world_ret.round(3)))
-            col2.write("Annual Standard Deviation: {}".format(world_std.round(3)))
+         
 
             best_pdi = PDI_DF["PDI_INDEX"].idxmax()
             pdi_asset = ast.literal_eval(PDI_DF["Assets"][best_pdi])
             best_sharpe = PDI_DF["Sharpe Ratio"].idxmax()
             sharpe_asset = ast.literal_eval(PDI_DF["Assets"][best_sharpe])
-            col1,col2 = st.beta_columns(2)
+            col1,col2,col3 = st.beta_columns(3)
             col1.subheader("Most Diversified Portfolio Performance")
             col1.write("Portfolio combination: {}".format(PDI_DF["Assets"][best_pdi]))
             col1.write("Diversification of diviserified portfolio: {}".format(PDI_DF["PDI_INDEX"][best_pdi].round(3)))
@@ -546,12 +551,18 @@ def app():
             col2.write("Standard Deviation of Return: {}".format(PDI_DF["Annual STD"][best_sharpe].round(3)))
             #col2.write("Categories in portfolio: {}".format(list(cluster_df.loc[sharpe_asset]["Category"])))
 
+            col3.subheader("Performance of World Index")
+            col3.write("Name of ETF: {}".format("URTH"))
+            col3.write("Sharpe Ratio: {}".format(world_sharpe.round(3)))
+            col3.write("Annual Mean Return: {}".format(world_ret.round(3)))
+            col3.write("Annual Standard Deviation: {}".format(world_std.round(3)))
+
             fig_1 = px.scatter(changing_pdi_df, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets",changing_pdi_df.index, "Annual STD","Annual Return"], color = "Annual STD")
-            # fig.update_layout(
-            #             title="Portfolio Diversificaton",
-            #             xaxis_title="Diversification",
-            #             yaxis_title="Sharpe Ratio",
-            #             legend_title="Volatility")
+            fig_1.update_layout(
+                            #title="Portfolio Diversificaton",
+                            xaxis_title="Diversification",
+                            yaxis_title="Risk Adjusted Return",
+                            legend_title="Volatility")
             fig_1.add_hline(y= world_sharpe, line_color= "orange", annotation_text= "URTH", line_dash="dot",annotation_position="bottom right")
             st.plotly_chart(fig_1,use_container_width=True)
             # fig_2 = px.scatter(changing_pdi_df, y ="Annual STD" , x = "PDI_INDEX", hover_data=["Assets",changing_pdi_df.index,"Sharpe Ratio","PDI_INDEX"], color = "Sharpe Ratio")
@@ -578,7 +589,7 @@ def app():
 
 
 
-                run = st.button("Run Optimisation Backtest")
+                run = st.checkbox("Run Optimisation Backtest")
 
 
             ########################################################### Strategy Trade #####################################################################################
@@ -587,7 +598,7 @@ def app():
                     status_text = st.empty()
                     performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
                     progress_bar.empty()
-
+                    performance_w["MSCI World"] = world_cum["MSCI World Cumulative"]
                     fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative"])
                     fig_performance.update_layout(
                             title="Performance of Strategy",
@@ -598,8 +609,8 @@ def app():
         
     
     if no_crypt:
-        number_of_assets_selected = col1.selectbox("Pick number of assets desired to invest in",[0,3,4,5,6,7,8,9,10] )
-        col2.write("The diversification index desscribes how broad a investment is, withnin the selected universe. The large the index number, the more diversified the portfolio is.")
+        number_of_assets_selected = st.selectbox("Pick number of assets desired to invest in",[0,3,4,5,6,7,8,9,10] )
+        #col2.write("The diversification index desscribes how broad a investment is, withnin the selected universe. The large the index number, the more diversified the portfolio is.")
 
         if number_of_assets_selected == 0:
             col1.error("Please choose a number of assets")
@@ -618,21 +629,17 @@ def app():
                 div_choice = st.slider("Diversification Slider", min_value=min, max_value=max)
                 changing_pdi_df = PDI_DF[PDI_DF["PDI_INDEX"].astype(float) >= div_choice]
 
-            col1, col2 = st.beta_columns([2,1])
-            col1.subheader("Different Portfolio combinations")
-            col1.dataframe(changing_pdi_df)
+
+            st.subheader("Different Portfolio combinations")
+            st.dataframe(changing_pdi_df)
             st.write(len(changing_pdi_df))
-            col2.subheader("Performance of World Index")
-            col2.write("Name of ETF: {}".format("URTH"))
-            col2.write("Sharpe Ratio: {}".format(world_sharpe.round(3)))
-            col2.write("Annual Mean Return: {}".format(world_ret.round(3)))
-            col2.write("Annual Standard Deviation: {}".format(world_std.round(3)))
+  
 
             best_pdi = PDI_DF["PDI_INDEX"].idxmax()
             pdi_asset = ast.literal_eval(PDI_DF["Assets"][best_pdi])
             best_sharpe = PDI_DF["Sharpe Ratio"].idxmax()
             sharpe_asset = ast.literal_eval(PDI_DF["Assets"][best_sharpe])
-            col1,col2 = st.beta_columns(2)
+            col1,col2 ,col3= st.beta_columns(3)
             col1.subheader("Most Diversified Portfolio Performance")
             col1.write("Portfolio combination: {}".format(PDI_DF["Assets"][best_pdi]))
             col1.write("Diversification of diviserified portfolio: {}".format(PDI_DF["PDI_INDEX"][best_pdi].round(3)))
@@ -649,12 +656,18 @@ def app():
             col2.write("Standard Deviation of Return: {}".format(PDI_DF["Annual STD"][best_sharpe].round(3)))
             col2.write("Categories in portfolio: {}".format(list(cluster_df.loc[sharpe_asset]["Category"])))
 
+            col3.subheader("Performance of World Index")
+            col3.write("Name of ETF: {}".format("URTH"))
+            col3.write("Sharpe Ratio: {}".format(world_sharpe.round(3)))
+            col3.write("Annual Mean Return: {}".format(world_ret.round(3)))
+            col3.write("Annual Standard Deviation: {}".format(world_std.round(3)))
+
             fig_1 = px.scatter(changing_pdi_df, x ="PDI_INDEX" , y = "Sharpe Ratio", hover_data=["Assets",changing_pdi_df.index, "Annual STD","Annual Return"], color = "Annual STD")
-            # fig.update_layout(
-            #             title="Portfolio Diversificaton",
-            #             xaxis_title="Diversification",
-            #             yaxis_title="Sharpe Ratio",
-            #             legend_title="Volatility")
+            fig.update_layout(
+                            #title="Portfolio Diversificaton",
+                            xaxis_title="Diversification",
+                            yaxis_title="Risk Adjusted Return",
+                            legend_title="Volatility")
             fig_1.add_hline(y= world_sharpe, line_color= "orange", annotation_text= "URTH", line_dash="dot",annotation_position="bottom right")
             st.plotly_chart(fig_1,use_container_width=True)
             # fig_2 = px.scatter(changing_pdi_df, y ="Annual STD" , x = "PDI_INDEX", hover_data=["Assets",changing_pdi_df.index,"Sharpe Ratio","PDI_INDEX"], color = "Sharpe Ratio")
@@ -672,29 +685,30 @@ def app():
             col1, col2 = st.beta_columns(2)
             col1.write("Pick Desired Portfolio")
             a =  col1.text_input("Index Number")
-            dingo = PDI_DF.iloc[int(a)-1].T
-            col2.dataframe(dingo)
-            port_pick = ast.literal_eval(PDI_DF.iloc[int(a)-1]["Assets"])
-            return_df = week_return_df[port_pick]
-            id_index_pdi = PDI_DF.iloc[int(a)-1]["PDI_INDEX"]
+            if a:
+                dingo = PDI_DF.iloc[int(a)-1].T
+                col2.dataframe(dingo)
+                port_pick = ast.literal_eval(PDI_DF.iloc[int(a)-1]["Assets"])
+                return_df = week_return_df[port_pick]
+                id_index_pdi = PDI_DF.iloc[int(a)-1]["PDI_INDEX"]
 
 
 
-            run = st.button("Run Optimisation Backtest")
+                run = st.checkbox("Run Optimisation Backtest")
 
 
-        ########################################################### Strategy Trade #####################################################################################
-            if run:
-                progress_bar = st.progress(0)
-                status_text = st.empty()
-                performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
-                progress_bar.empty()
-
-                fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative"])
-                fig_performance.update_layout(
-                        title="Performance of Strategy",
-                        xaxis_title="Time",
-                        yaxis_title="Cummulative Performance",
-                        legend_title="Strategies")
-                st.plotly_chart(fig_performance,use_container_width=True)
+            ########################################################### Strategy Trade #####################################################################################
+                if run:
+                    progress_bar = st.progress(0)
+                    status_text = st.empty()
+                    performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
+                    progress_bar.empty()
+                    performance_w["MSCI World"] = world_cum["MSCI World Cumulative"]
+                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cumulative","Max Sharpe Ratio Weights Cumulative","Equal Weights Cumulative"])
+                    fig_performance.update_layout(
+                            title="Performance of Strategy",
+                            xaxis_title="Time",
+                            yaxis_title="Cummulative Performance",
+                            legend_title="Strategies")
+                    st.plotly_chart(fig_performance,use_container_width=True)
 
