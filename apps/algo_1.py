@@ -506,7 +506,7 @@ def app():
         if number_of_assets_selected == 0:
             col1.error("Please choose a number of assets")
         if number_of_cryptos_selected == 0:
-            col1.error("Please choose a number of assets")
+            col2.error("Please choose a number of assets")
         else:
             progress_bar = st.progress(0)
             status_text = st.empty()
@@ -597,7 +597,7 @@ def app():
                     performance_w, weight_w = pca_per_weights_rolling(return_data = return_df, portfolio = port_pick , interval = "Q", ret_range_mean = 12,pdi_max_train=id_index_pdi)
                     progress_bar.empty()
                     performance_w["MSCI World"] = list(world_cum)
-                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cummulative","Max Sharpe Ratio Weights Cummulative","Equal Weights Cummulative","MSCI World"])
+                    fig_performance = px.line(performance_w, x="Time", y=["Max PDI Weights Cumulative","Max Sharpe Ratio Weights Cumulative","Equal Weights Cumulative","MSCI World"])
                     fig_performance.update_layout(
                             title="Performance of Strategy",
                             xaxis_title="Time",
